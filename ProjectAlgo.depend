@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1738096798 source:c:\users\pc\documents\toz\toz\librarym.c
+	"libraryMheader.h"
+
+1738103872 c:\users\pc\documents\toz\toz\librarymheader.h
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
+1738096751 source:c:\users\pc\documents\toz\toz\project 1.c
+	"libraryMheader.h"
+
